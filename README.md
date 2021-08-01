@@ -2,7 +2,7 @@
 	Consistency⏳ is the Key🔑 to Everything🏅
 </h2>
 
-### ⏳ Consistent Learning & Blogging ( Year 1 )
+### ⏳ Consistent Blogging ( Year 1 )
 * Checkout my Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B3%5DBlogProgressLog.md)]
 
 ### ✅I've Finished the #30DaysOfProblemSolving Challenge 🥳
