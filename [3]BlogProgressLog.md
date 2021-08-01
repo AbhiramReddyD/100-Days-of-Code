@@ -3,8 +3,8 @@
 ## Rules
 * Share what I learn every week
 * Blog and document my learnings
+* Publish four articles per month
 * Learn by doing, building projects
-* Publish consistently on 1, 5, 10, 15 and 25th of every month
 * Projects here on my [GitHub](https://github.com/abhiramready/) and blog at [Matrixread](https://matrixread.com/)
 
 ### Month 1: May 2021
