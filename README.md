@@ -12,13 +12,13 @@
 * Reflect on my learnings through blog posts
 * Share what I learn every week, and document my learnings
 
-### Why Blogging?
+### Why Blogging? ✍
 * Writing helps me connect and reflect what I've learned.
 * Publishing it on my blog keeps me accountable to myself.
 
 ### Progress ⏩
 
-* Checkout my Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B3%5DBlogProgressLog.md)] ( Year 1 ) 
+* Checkout my Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B3%5DBlogProgressLog.md)] ( Year 1 ) ⏳
 
 ***
 
