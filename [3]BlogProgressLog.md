@@ -1,11 +1,14 @@
 # Consistent Learning📚 & Blogging 📝
 
-## Rules
-* Share what I learn every week
-* Blog and document my learnings
-* Publish four articles per month
-* Learn by doing, building projects
-* Projects here on my [GitHub](https://github.com/abhiramready/) and blog at [Matrixread](https://matrixread.com/)
+## Agenda 🌱
+* Learn by doing, build projects
+* Share what I learn every week, blog and document my learnings
+
+## Progress ⏩
+* Projects are here on my [GitHub](https://github.com/abhiramready/) and blog at [Matrixread](https://matrixread.com/)
+* Publish one blog post every Sunday on what I've learnt/worked on over the week
+
+### 🥅Goal: 1️⃣ Year 
 
 ### Month 1: May 2021
 
