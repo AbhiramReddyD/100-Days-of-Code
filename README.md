@@ -2,8 +2,8 @@
 	Consistency⏳ is the Key🔑 to Everything🏅
 </h2>
 
-### ⏳ Consistent Blogging ( Year 1 )
-* Checkout my Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B3%5DBlogProgressLog.md)]
+### ✍ Consistent Blogging
+* Checkout my Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B3%5DBlogProgressLog.md)] ( Year 1 )
 
 ### ✅I've Finished the #30DaysOfProblemSolving Challenge 🥳
 * Checkout my Progress Log : [[Here](https://github.com/abhiramready/Code-LogBook/blob/master/Markdown/30DaysOfCode.md)]
