@@ -40,3 +40,11 @@
 **Thoughts:** Introduction to JavaScript
 
 **Link to work:** [July 2021](https://matrixread.com/2021/07/)
+
+### Month 4: August 2021
+
+**Learning Progress**: ES2020 JavScript
+
+**Thoughts:** ES2020 JavaScript features
+
+**Link to work:** [August 2021](https://matrixread.com/2021/08/)
