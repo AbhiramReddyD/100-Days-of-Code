@@ -6,7 +6,7 @@
 
 ### ✅⏩ Forever In Progress 
 
-* Progress Log : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B4%5DBlogProgressLog.md)] ( 2021 ) ⏳
+* Progress Log ( 2021 ) : [[Here](https://github.com/abhiramready/Consistency-Log/blob/master/%5B4%5DBookLog.md)]  ⏳
 
 ***
 
