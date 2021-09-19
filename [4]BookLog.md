@@ -4,7 +4,7 @@ I started reading since 2020, initially I was looking to ways to spend time afte
 
 ### Books 📔
 1. War of the worlds
-2. The subtle art of not giving a Fuck
+2. The subtle art of not giving a F*ck
 
 ### Audiobooks 💿
 1. Ego is the enemy
