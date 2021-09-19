@@ -3,6 +3,7 @@
 ### Aim 🎯
 * **Don't blog for the sake of it !**
 * 4 Weeks in a month = 4 posts per month
+* 1 miss can be spilled over to next month but not more
 
 ### Agenda 🌱
 * Reflect on my learnings through blog posts
